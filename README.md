@@ -17,7 +17,7 @@
 
 - 📝 I write articles on [Technologies, AWS, GCP and also a content writer too.](Technologies, AWS, GCP and also a content writer too.) Check out: [https://blog.economize.cloud/](https://blog.economize.cloud/)
 
-- 💬 Ask me about **JavaScript, React, writing articles**
+- 💬 Ask me about **JavaScript, React, writing articles, open source**
 
 - 📫 How to reach me **snhafarkya@gmail.com**
 
