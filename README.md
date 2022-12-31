@@ -9,9 +9,11 @@
 
 - 🔭 I’m currently working towards **Building react based web applications**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/snehafarkya](https://www.github.com/snehafarkya)
+- 👯 I’m looking to collaborate on **Open source projects**
+
+- 👨‍💻 All of my projects are available at [Workfolio](https://workfolio.netlify.app)
 
 - 📝 I write articles on [Technologies, AWS, GCP and also a content writer too.](Technologies, AWS, GCP and also a content writer too.) Check out: [https://blog.economize.cloud/](https://blog.economize.cloud/)
 
@@ -20,6 +22,21 @@
 - 📫 How to reach me **snhafarkya@gmail.com**
 
 - ⚡ Fun fact **I am a girl with dimples shining on forever 😇**
+
+<h3 align="left">Work Experience:</h3>
+
+ -  **Economize:** I worked as a Technical writer. My tenure was from 3rd August to 30th November. 
+ -  **The Bug Community:** I was recruited as a senior content writer. I also contributed in web development.
+ -  **MU-ACM:** This is my University's technical club. I was an executive member, served for a year.
+
+
+<h3 align="left">Hackathons:</h3>
+Hackathons are a great way to learn new things, gain experience and make connections. I love open source and so I started doing hackathons. Here are some hackathons I proudly participated in:
+
+1. Kenthack.io(2021)
+2. Hactoberfest(2021)
+3. Local Hack day: Build(2022)
+4. Hacktoberfest(2022)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
