@@ -33,10 +33,12 @@
 <h3 align="left">Hackathons:</h3>
 Hackathons are a great way to learn new things, gain experience and make connections. I love open source and so I started doing hackathons. Here are some hackathons I proudly participated in: <br>
 
-1. Kenthack.io(2021)
-2. Hactoberfest(2021)
-3. Local Hack day: Build(2022)
-4. Hacktoberfest(2022)
+1. Hack this fall 3.0 : Won the track prize of "Most creative use of Twilio"
+2. SheBuilds Hackathon: Got special mention from organizers
+3. Hacktoberfest(2022)
+4. Local Hack day: Build(2022)
+5. Hactoberfest(2021)
+6. Kenthack.io(2021)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
