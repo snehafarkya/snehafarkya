@@ -25,12 +25,19 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=snehafarkya&label=Profile%20views&color=0e75b6&style=flat" alt="snehafarkya" /> </p>
 
 <hr/>
-<h3 align="left">Who am I?</h3>
+<h3 align="left" > <u> Who am I? </u> </h3>
+
+- 🤓 I'm a tech geek, love to explore new technologies. 
+
+- 🌱 I love to teach people and to help them if they're stuck somewhere in coding.
+- 😅 I am a hackathon nerd, I enjoy meeting new people. 
+ 
 - 🔭 I’m currently working as Frontend Developer at **Qoruz**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN stack** , **Next js** , **some backend stuff** as well.
 
 - 👯 I’m looking to collaborate on **Open source projects**
+- I've done freelancing as well.
 
 - 👨‍💻 You can check my Portfolio here: [Portfolio](https://snehafarkya.vercel.app/)
 
@@ -38,26 +45,27 @@
 
 - 💬 Ask me about **JavaScript, React, writing articles, open source**
 
-- 📫 How to reach me **snhafarkya@gmail.com**
-
 - ⚡ Fun fact **I am a girl with dimples shining on forever 😇**
 
 <h3 align="left">Work Experience:</h3>
 
- -  **Economize:** I worked as a Technical writer. My tenure was from 3rd August to 30th November. 
- -  **The Bug Community:** I was recruited as a senior content writer. I also contributed in web development.
- -  **MU-ACM:** This is my University's technical club. I was an executive member, served for a year.
+ -  **Qoruz:** As a Frontend developer, I aim to enhance user experiences and bring innovative designs to life. Collaborating with a team of talented professionals to create a seamless interface.
+ -  **Freelancer:** As a freelancer, I have worked closely with the client to deliver satisfactory development. Got my hands on Storybook component.
+ -  **GoSchedule:** Worked remotely with the founder and senior developer in Angular js. Made dashboard component and developed the onboarding calendly like scheduler.
+ -  **Economize:** At Economize, I wrote technical blogs and developed my inter personal skills. I worked closely with co-founder and built strong time management skills 
+ -  **The Bug Community:** TBC taught me how to deal and negotiate with clients. I worked on strict deadlines, wrote content for clients, made videos for clients.
+ -  **MU-ACM:** I was the Executive member of content team in (MU-ACM). I got my hands on new experiences. I wrote descriptive emails, whatsapp invitation messages and event invitations etc.
 
 
 <h3 align="left">Hackathons:</h3>
 Hackathons are a great way to learn new things, gain experience and make connections. I love open source and so I started doing hackathons. Here are some hackathons I proudly participated in: <br/>
 
-1. Hack this fall 3.0 : Won the track prize of "Most creative use of Twilio"
-2. SheBuilds Hackathon: Got special mention from organizers
-3. Hacktoberfest(2022)
-4. Local Hack day: Build(2022)
-5. Hactoberfest(2021)
-6. Kenthack.io(2021)
+1.**Hack this fall 3.0**: Won the track prize of "Most creative use of Twilio"
+2. **SheBuilds Hackathon**: Got special mention from organizers
+3. **Hacktoberfest(2022)**
+4. **Local Hack day: Build(2022)**
+5. **Hactoberfest(2021)**
+6. **Kenthack.io(2021)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
