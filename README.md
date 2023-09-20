@@ -1,23 +1,31 @@
 <h1 align="center">Hi 👋, I'm Sneha Farkya</h1>
-<h3 align="center">Versatile Professional: Frontend Developer, Technical Writer, and Freelancer </h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" width="400" height="400"/>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehafarkya&label=Profile%20views&color=0e75b6&style=flat" alt="snehafarkya" /> </p>
+<h3 align="center">Versatile Professional: Frontend Developer, Technical Writer, and Freelancer </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehafarkya" alt="snehafarkya" /></a> </p> 
-<div id="badges">
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehafarkya" alt="snehafarkya" /></a> </p> 
+<div id="badges" align="center">
   <a href="https://linkedin.com/in/sneha-farkya">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://youtube.com/@snhafarkya">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-grey?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/sneha_farkya">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://hashnode.com/in/@snehafarkya">
+    <img src="https://img.shields.io/badge/Hashnode-grey?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
+  </a>
+  <a href="https://peerlist.io/sneha_farkya">
+    <img src="https://img.shields.io/badge/Peerlist-grey?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist Badge"/>
   </a>
 </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=snehafarkya&label=Profile%20views&color=0e75b6&style=flat" alt="snehafarkya" /> </p>
 
+<hr/>
+<h3 align="left">Who am I?</h3>
 - 🔭 I’m currently working as Frontend Developer at **Qoruz**
 
 - 🌱 I’m currently learning **MERN stack**
