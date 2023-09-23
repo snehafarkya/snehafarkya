@@ -29,10 +29,11 @@
 
 - 🤓 I'm a tech geek, love to explore new technologies. 
 
-- 🌱 I love to teach people and to help them if they're stuck somewhere in coding.
+- 👩‍🏫 I love to teach people and to help them if they're stuck somewhere in coding.
 - 😅 I am a hackathon nerd, I enjoy meeting new people. 
  
 - 🔭 I’m currently working as Frontend Developer at **Qoruz**
+- 🎶 Singing is my passion ☺️
 
 - 🌱 I’m currently learning **MERN stack** , **Next js** , **some backend stuff** as well.
 
