@@ -62,7 +62,7 @@
 
 
 <h3 align="left">Hackathons:</h3>
-Hackathons are a great way to learn new things, gain experience and make connections. I love open source and so I started doing hackathons. Here are some hackathons I proudly participated in: <br/>
+Hackathons are a great way to learn new things, gain experience and make connections. I love open source and so I started participating hackathons. Here are some hackathons I proudly participated in: <br/>
 
 1.**Hack this fall 3.0**: Won the track prize of "Most creative use of Twilio"
 2. **SheBuilds Hackathon**: Got special mention from organizers
