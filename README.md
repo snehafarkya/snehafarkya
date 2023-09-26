@@ -80,6 +80,7 @@ Hackathons are a great way to learn new things, gain experience and make connect
 <a href="https://discord.gg/Sneha#9875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sneha#9875" height="30" width="40" /></a>
 <a href="https://youtube.com/@snhafarkya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Sneha#9875" height="30" width="40" /></a>
 <a href="https://hashnode.com/@snehafarkya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Sneha#9875" height="30" width="40" /></a>
+<a href="https://medium.com/@snehafarkya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Sneha#9875" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
