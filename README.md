@@ -41,7 +41,7 @@
 - 🌱 I’m currently learning **MERN stack** , **Next js** , **some backend stuff** as well.
 
 - 👯 I’m looking to collaborate on **Open source projects**
-- I've done freelancing as well.
+- I'm active freelancer as well.
 
 - 👨‍💻 You can check my Portfolio here: [Portfolio](https://snehafarkya.vercel.app/)
 
