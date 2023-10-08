@@ -3,7 +3,6 @@
   <img src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" width="400" height="400"/>
 </div>
 <h3 align="center">Versatile Professional: Frontend Developer, Technical Writer, and Freelancer </h3>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehafarkya" alt="snehafarkya" /></a> </p> 
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/sneha-farkya">
