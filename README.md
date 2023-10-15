@@ -100,7 +100,6 @@ Hackathons are a great way to learn new things, gain experience and make connect
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehafarkya&show_icons=true&locale=en&layout=compact" alt="snehafarkya" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=snehafarkya&show_icons=true&locale=en" alt="snehafarkya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehafarkya&" alt="snehafarkya" /></p>
