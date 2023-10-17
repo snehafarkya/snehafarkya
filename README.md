@@ -37,7 +37,7 @@
 - 🔭 I’m currently working as Frontend Developer at **Qoruz**
 - 🎶 Singing is my passion ☺️
 
-- 🌱 I’m currently learning **MERN stack** , **Next js** , **some backend stuff** as well.
+
 
 - 👯 I’m looking to collaborate on **Open source projects**
 - I'm active freelancer as well.
