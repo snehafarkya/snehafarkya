@@ -7,7 +7,7 @@
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/sneha-farkya">
     <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+</a>
 <a href="https://instagram.com/sing_with_sneha">
     <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
