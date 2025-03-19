@@ -38,7 +38,7 @@
 - 🎶 Singing is my passion ☺️
 - 👯 I’m looking to collaborate on **Open source projects**
 - I'm active freelancer as well.
-- 👨‍💻 You can check my Portfolio here: [Portfolio](https://snehafarkya.vercel.app/)
+- 👨‍💻 You can check my Portfolio here: [Portfolio](https://sneha-farkya.vercel.app/)
 
 - 📝 I write articles on [Technologies, AWS, GCP and also a content writer too.](Technologies, AWS, GCP and also a content writer too.) Check out: [https://blog.economize.cloud/](https://blog.economize.cloud/)
 
